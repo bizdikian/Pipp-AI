@@ -1,0 +1,19 @@
+.bg-primary {
+  background-color: #1E3A8A;
+}
+
+.text-primary {
+  color: #1E3A8A;
+}
+
+/* Tailwind CSS base styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional global styles */
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
